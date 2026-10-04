@@ -1,4 +1,5 @@
 # My Git Practice
 Learning Git basics step by step.
-Add diffenently from master branch.
+Add differently from master branch.
 Added from feature-test branch.
+Added directly from GitHub Website.
